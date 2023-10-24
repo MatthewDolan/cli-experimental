@@ -7,7 +7,7 @@ description: >
     Appends the value to the names of all resources and references.
 ---
 
-As `nameSuffix` is self explanatory, it helps adding suffix to names in the defined yaml files.
+`nameSuffix` helps adding suffix to names in the defined yaml files.
 
 **Note:** The suffix is appended before the content hash if the resource type is ConfigMap or Secret.
 

@@ -7,7 +7,7 @@ description: >
     Prepends the value to the names of all resources and references.
 ---
 
-As `namePrefix` is self explanatory, it helps adding prefix to names in the defined yaml files.
+`namePrefix` helps adding prefix to names in the defined yaml files.
 
 ## Example
 
